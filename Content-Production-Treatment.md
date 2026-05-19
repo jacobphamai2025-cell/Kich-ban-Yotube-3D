@@ -361,6 +361,70 @@ Biến đổi theo context:
 
 ---
 
+## 3.5 DIALOGUE & VOICE ALLOCATION RULES
+
+### Phân bổ Voice trong mỗi video (10 phút):
+
+| Layer | Tỷ lệ | Vai trò |
+|-------|--------|---------|
+| **Dialogue** (giữa nhân vật) | **65%** | "Meat" — nơi learner luyện nghe, từ vựng thực tế, sentence patterns |
+| **Narrator** (dẫn chuyện) | **20%** | Hook, bridge, transition, reflection — "poetic", vocabulary nâng cao nhẹ |
+| **Silence / SFX only** | **15%** | Pause 1-2s sau câu quan trọng, Silence Beat 3-5s, breathing room |
+
+### Dialogue Style Rules (cho English Learners A2-B1):
+
+| Quy tắc | Ví dụ TỐT | TRÁNH |
+|---------|-----------|-------|
+| **Câu ngắn-trung bình** (5-12 từ/câu) | "I need to talk to you." | "I was wondering if perhaps we could find some time to discuss something." |
+| **Lặp lại keyword tự nhiên** | A: "It's not fair." B: "Fair? When was life ever fair to us?" | Mỗi câu dùng từ khác nhau → learner không nắm được |
+| **1-2 từ mới/phút** (embedded in context) | "He was promoted. That means... he got a better position." | Quá nhiều từ mới liên tiếp → overwhelm |
+| **Cảm xúc qua cách nói, không qua giải thích** | "Fine. I'll go." (ngắn = tức giận) | "I feel angry so I will leave now." |
+| **Contractions tự nhiên** | "I don't know. I can't do this." | "I do not know. I cannot do this." (quá formal) |
+| **Pause/hesitation realistic** | "I... I thought you were my friend." | Mọi câu đều fluent hoàn hảo |
+| **Show status qua cách nói** | Boss: full sentences, formal. Child: simple, broken | Mọi nhân vật nói giống nhau |
+
+### Dialogue phải kiêm nhiệm 3 vai trò đồng thời:
+
+```
+MỖI ĐOẠN DIALOGUE = 
+  1. Advance plot (kể chuyện tiến về phía trước)
+  + 2. Build character (thể hiện personality, relationship)
+  + 3. Teach English (vocabulary, sentence structure, natural patterns)
+```
+
+### Voice Differentiation Rules:
+
+| Nhân vật | Giọng đặc trưng | Lý do |
+|----------|-----------------|-------|
+| **Narrator** | Male, 30-35, warm, low-pitched, 120-130 WPM | Brand voice — nhất quán mọi video |
+| **Protagonist** | Phải KHÁC narrator rõ ràng (nam/nữ, tuổi, pitch) | Tránh confuse ai đang nói |
+| **Antagonist** | Slightly faster pace, sharper tone | Contrast với protagonist restrained |
+| **Trẻ em** | Higher pitch, simpler vocabulary, shorter sentences | Natural + dễ nghe + tạo sympathy |
+| **Mentor/Elder** | Slower, warmer, longer pauses between phrases | Wisdom, calm presence |
+
+### Xen kẽ Dialogue — "Breathing Pattern":
+
+```
+KHÔNG: Dialogue → Dialogue → Dialogue → Dialogue (mệt)
+
+CÓ:   Dialogue (30s) → Narrator bridge (5-10s) → Dialogue (30s) 
+       → Silence/SFX moment (3-5s) → Dialogue (30s) → Narrator (5s)
+       
+Rhythm: SPEAK → breathe → SPEAK → breathe → SPEAK → breathe
+```
+
+### Quy tắc đặc biệt — "The Echo Line":
+
+> Mỗi video có 1 câu dialogue được LẶP LẠI 2-3 lần — mỗi lần KHÁC NGHĨA.
+> Đây là "signature technique" của The Quiet World.
+
+**Ví dụ:**
+- Lần 1 (Hồi 2): Character nói "I'm fine." → Ý nghĩa: đang nói dối, giấu đau
+- Lần 2 (Hồi 4): Character nói "I'm fine." → Ý nghĩa: lần này NÓI THẬT — đã thực sự ổn
+- → Learner nghe cùng 1 câu, hiểu CONTEXT thay đổi nghĩa. Đây là bài học English sâu nhất.
+
+---
+
 ## 3.2 CHARACTER ARCHETYPES — Thư viện nhân vật
 
 ### Nguyên tắc thiết kế nhân vật:
