@@ -576,3 +576,442 @@
 | Emotional Journey | Roller coaster | Phẫn nộ → Xấu hổ → Sợ → Quyết tâm → TỰ HÀO → Chiến thắng |
 | Core Motifs | All 4 | ✅ Window, Light, Weather, Stairs (podium) |
 | Structure | Hero's Quiet Journey | ✅ 5 Acts: Ordinary → Call/Refusal → Trials/Ally → Confrontation → Return |
+
+
+
+---
+---
+---
+
+# SCRIPT — PHIÊN BẢN TIẾNG VIỆT (Bản dịch tham khảo)
+
+---
+
+## HỒI 1: THẾ GIỚI BÌNH THƯỜNG (0:00 — 1:30)
+
+---
+
+### MỞ LẠNH — Flash Forward (0:00 — 0:12)
+
+**[HÌNH ẢNH: Cận cảnh đôi tay cậu bé — run rẩy — nắm chặt mép bục phát biểu. Micro phía trước. Gương mặt khán giả mờ nhòe.]**
+
+**[SFX: Tiếng micro ù. Tiếng xì xào xa xa.]**
+
+**NOAH (V.O. — từ tương lai):**
+"Thầy gọi tôi là 'không ai cả.'"
+
+**[DỪNG — 2 giây im lặng.]**
+
+**NOAH (V.O.):**
+"Để tôi kể cho các người nghe... 'không ai cả' đã làm được gì."
+
+**[SFX: Cắt ngang sang im lặng. Màn hình đen.]**
+
+---
+
+### GIỚI THIỆU THẾ GIỚI (0:12 — 0:50)
+
+**[HÌNH ẢNH: Toàn cảnh. Trường học. Sáng xám. Mưa nhẹ. Học sinh chạy vào với ô. Một cậu bé — NOAH — đi bộ không ô. Áo khoác cũ, hơi rộng. Cậu không chạy.]**
+
+**NARRATOR:**
+"Đây là Noah. Cậu mười một tuổi. Cậu học ở trường Greenfield... nơi cậu là đứa trẻ thông minh nhất mà không ai chú ý."
+
+---
+
+### GIỚI THIỆU NHÂN VẬT — Sự bất công thường nhật (0:50 — 1:30)
+
+**[HÌNH ẢNH: Lớp học. THẦY CARTER đứng phía trước. Ăn mặc chỉnh tề, nụ cười tự tin. Đang trả bài kiểm tra.]**
+
+**THẦY CARTER:**
+"Làm tốt lắm, Marcus. Chín mươi lăm phần trăm. Bố mẹ em chắc tự hào lắm."
+
+**THẦY CARTER:**
+"Sophia, phân tích xuất sắc. Chín mươi hai."
+
+**[HÌNH ẢNH: Thầy đi qua bàn Noah không dừng lại. Thả bài úp mặt xuống.]**
+
+**THẦY CARTER:**
+"Và... những em còn lại. Cố gắng hơn lần sau."
+
+**[HÌNH ẢNH: Noah lật bài. Điểm: 98%. CAO NHẤT lớp. Mặt cậu — không ngạc nhiên. Chỉ là chấp nhận. Cậu quen rồi.]**
+
+**NARRATOR:**
+"Noah được điểm cao nhất. Luôn luôn vậy. Nhưng trong lớp thầy Carter... có những điểm số quan trọng hơn những điểm số khác."
+
+---
+
+## HỒI 2: TIẾNG GỌI + TỪ CHỐI (1:30 — 4:00)
+
+---
+
+### TIẾNG GỌI — Sự kiện phá vỡ sự im lặng (1:30 — 2:30)
+
+**[HÌNH ẢNH: Ngày hôm sau. Lớp học. Thầy Carter đang chọn học sinh cho buổi thuyết trình Hội Phụ huynh hàng năm.]**
+
+**THẦY CARTER:**
+"Cho buổi thuyết trình năm nay, thầy cần những học sinh... đại diện tốt cho trường."
+
+*(Nhìn quanh lớp. Mắt bỏ qua Noah.)*
+
+**THẦY CARTER:**
+"Marcus. Sophia. Và... Oliver."
+
+**[HÌNH ẢNH: Tay Noah giơ lên — chậm, rụt rè.]**
+
+**NOAH:**
+"Thưa thầy Carter... em có thể thử không? Em... em đang viết về—"
+
+**THẦY CARTER:**
+*(ngắt lời, không nhìn Noah)*
+"Noah. Buổi thuyết trình này dành cho phụ huynh. Sẽ có những người quan trọng ở đó."
+
+*(Dừng. Nhìn áo khoác cũ của Noah.)*
+
+**THẦY CARTER:**
+"Chúng ta cần những học sinh... trông có vẻ thuộc về sân khấu đó."
+
+**[HÌNH ẢNH: Cả lớp im bặt. Vài đứa trẻ nhìn không thoải mái. Marcus nhìn xuống bàn.]**
+
+**NARRATOR:**
+"Thầy không nói thẳng. Không cần. Ai cũng hiểu."
+
+---
+
+### SỰ HẠ NHỤC (2:30 — 3:15)
+
+**[HÌNH ẢNH: Giờ trưa. Noah ngồi một mình ngoài hành lang, ăn trưa. HAI CẬU BÉ đi qua — TYLER và JAKE.]**
+
+**TYLER:**
+"Ê Noah, nghe nói Carter bảo mày 'không thuộc về đây.' Tệ thật, anh bạn."
+
+**JAKE:**
+*(cười)*
+"Mày mong gì? Ổng chọn mấy đứa có bố mẹ quyên tiền cho trường thôi."
+
+**TYLER:**
+"Chấp nhận đi, Noah. Ở trường này... mày chẳng là ai cả."
+
+**[HÌNH ẢNH: Noah không đáp. Chỉ nhìn sandwich. Cắn một miếng. Nhưng hàm nghiến chặt. Tay nắm nhẹ.]**
+
+**NOAH:**
+*(thì thầm với chính mình)*
+"Chẳng là ai."
+
+**[GHI CHÚ: ★ ECHO LINE — Lần 1. Nghĩa: chấp nhận lời xúc phạm, nuốt vào trong.]**
+
+---
+
+### TỪ CHỐI — Nỗi sợ (3:15 — 4:00)
+
+**[HÌNH ẢNH: Tan học. Noah đi bộ về trong mưa. Đi ngang bảng thông báo: "HỘI PHỤ HUYNH — TẤT CẢ HỌC SINH ĐƯỢC ĐĂNG KÝ PHÁT BIỂU." Cậu dừng. Đọc. Rồi nhìn đi. Bước tiếp.]**
+
+**NARRATOR:**
+"Bảng ghi 'Tất cả học sinh được tham gia.' Nhưng Noah không cảm thấy được chào đón ở bất cứ đâu."
+
+**[HÌNH ẢNH: Nhà — căn hộ nhỏ, sạch sẽ. MẸ ngồi bàn, trước hai chồng hóa đơn. Bà mệt nhưng cười khi Noah vào.]**
+
+**MẸ:**
+"Chào con. Hôm nay đi học thế nào?"
+
+**NOAH:**
+*(dừng)*
+"...Bình thường."
+
+**MẸ:**
+*(nhận ra mặt con)*
+"Noah? Có chuyện gì vậy?"
+
+**NOAH:**
+"Không có gì, mẹ. Không... không có gì."
+
+**[HÌNH ẢNH: Cậu vào phòng. Đóng cửa. Ngồi trên giường. Cuốn sổ trên bàn. Cậu không mở.]**
+
+**NARRATOR:**
+"Cậu muốn biến mất. Cậu nghĩ nếu im lặng... có lẽ sẽ bớt đau."
+
+---
+
+## HỒI 3: THỬ THÁCH & ĐỒNG MINH (4:00 — 6:00)
+
+---
+
+### THỬ THÁCH 1 — Tệ hơn (4:00 — 4:40)
+
+**[HÌNH ẢNH: Ngày hôm sau. Giờ Khoa học. Phân nhóm dự án.]**
+
+**THẦY CARTER:**
+"Marcus, em với Sophia và Oliver. Bàn hai."
+
+*(Noah chờ. Mọi nhóm đầy. Cậu là người cuối cùng.)*
+
+**THẦY CARTER:**
+*(hờ hững)*
+"Ồ. Noah. Em có thể... làm một mình. Thầy chắc em xoay xở được."
+
+**NARRATOR:**
+"Làm một mình. Lại nữa."
+
+---
+
+### ĐỒNG MINH XUẤT HIỆN — Cô Helen (4:40 — 5:20)
+
+**[HÌNH ẢNH: Thư viện. Sau giờ học. Noah ngồi ở chỗ quen — bàn góc, xung quanh toàn sách. CÔ HELEN đến với tách trà và một cuốn sách.]**
+
+**CÔ HELEN:**
+"Con lại ở đây muộn nữa rồi, Noah."
+
+**NOAH:**
+"Chỉ... học bài thôi ạ."
+
+**CÔ HELEN:**
+*(ngồi xuống, đặt cuốn sách trước mặt cậu)*
+"Cô để ý hôm nay. Thầy Carter chọn ba học sinh cho buổi lễ."
+
+**NOAH:**
+*(không ngước lên)*
+"Vâng."
+
+**CÔ HELEN:**
+"Và cô để ý thầy không chọn người được chín mươi tám phần trăm."
+
+**[HÌNH ẢNH: Noah ngước lên. Lần đầu nhìn thẳng vào mắt.]**
+
+**NOAH:**
+"Không quan trọng đâu, cô Helen. Thầy ấy sẽ không bao giờ chọn em."
+
+**CÔ HELEN:**
+*(dừng — dài, có chủ đích)*
+"Noah... bảng thông báo ghi TẤT CẢ học sinh có thể đăng ký phát biểu. Thầy ấy không có quyền chọn ai được nói. Nhà trường mới có."
+
+**[HÌNH ẢNH: Noah nhìn chằm chằm cô.]**
+
+**CÔ HELEN:**
+"Con không cần sự cho phép của thầy ấy để dùng giọng nói của mình."
+
+*(Đẩy cuốn sách về phía cậu. Bìa: "NHỮNG BÀI PHÁT BIỂU VĨ ĐẠI ĐÃ THAY ĐỔI THẾ GIỚI.")*
+
+**CÔ HELEN:**
+"Giọng nói lớn nhất trong phòng... không phải lúc nào cũng mạnh nhất. Đôi khi... giọng mạnh nhất là giọng cuối cùng quyết định CẤT LÊN."
+
+**[HÌNH ẢNH: Noah nhìn cuốn sách. Rồi nhìn cô Helen. Có gì đó thay đổi trong mắt cậu.]**
+
+---
+
+### THỬ THÁCH 2 — Viết (Sợ hãi + Thắng nhỏ) (5:20 — 6:00)
+
+**[HÌNH ẢNH: Montage — Noah ở nhà, ở bàn. Viết. Gạch xóa. Viết lại. Vo giấy. Bắt đầu lại.]**
+
+**NARRATOR:**
+"Cậu viết. Và viết lại. Và viết lại lần nữa. Mỗi từ đều cảm thấy quá nhỏ. Quá lớn. Quá nguy hiểm."
+
+**[HÌNH ẢNH: Noah đọc lại bài viết. Tay run. Suýt vứt đi — rồi dừng. Giữ tờ giấy.]**
+
+**NOAH:**
+*(đọc cho mình, nhỏ giọng)*
+"Thầy gọi tôi là không ai cả..."
+
+**[HÌNH ẢNH: Cậu hít thở. Gấp giấy cẩn thận. Bỏ vào túi áo khoác — ngay tim.]**
+
+**NARRATOR:**
+"Cậu nộp bài phát biểu sáng hôm đó. Cô thư ký ngạc nhiên. Rồi cô mỉm cười."
+
+**THƯ KÝ:**
+"Em có tên trong danh sách rồi, Noah. Buổi lễ là thứ Sáu."
+
+---
+
+## HỒI 4: THỬ THÁCH LỚN + ĐỐI ĐẦU (6:00 — 8:30)
+
+---
+
+### VILLAIN LEO THANG (6:00 — 6:30)
+
+**[HÌNH ẢNH: Thứ Năm. Thầy Carter phát hiện Noah đã đăng ký. Chặn cậu sau giờ học.]**
+
+**THẦY CARTER:**
+"Noah. Thầy nghe nói em đăng ký phát biểu."
+
+**NOAH:**
+"Vâng, thưa thầy."
+
+**THẦY CARTER:**
+*(cúi người, hạ giọng)*
+"Thầy nói thẳng nhé. Phụ huynh ở trường này... họ kỳ vọng một tiêu chuẩn nhất định. Em có chắc muốn đứng lên đó... trông như..."
+
+*(Lơ đãng chỉ vào áo khoác Noah.)*
+
+**THẦY CARTER:**
+"...thế này không?"
+
+**[HÌNH ẢNH: Mặt Noah. Trong giây lát — cậu trông như sắp lùi bước. Tay cậu chuyển về phía túi áo — thói quen cũ.]**
+
+**NOAH:**
+*(nhẹ nhàng, nhưng vững)*
+"Em chắc."
+
+---
+
+### KHOẢNH KHẮC TỐI (6:30 — 7:00)
+
+**[HÌNH ẢNH: Tối đó. Phòng Noah. Cậu tập nói trước gương. Giọng vỡ. Vấp từ. Nhìn phản chiếu — áo khoác cũ, tóc rối.]**
+
+**NOAH:**
+*(nói với gương)*
+"Mình tự lừa mình. Ổng nói đúng. Mình không... mình trông không giống—"
+
+**[HÌNH ẢNH: Dừng. Nhìn chằm chằm vào gương. Gần khóc. Ngồi xuống giường.]**
+
+**[HÌNH ẢNH: Rồi — cậu thấy thứ gì đó. Trên bàn. Cuốn sách cô Helen cho. Mở ở một trang. Một tờ dán ghi chữ cô: "Thế giới không thay đổi vì ai đó TRÔNG sẵn sàng. Nó thay đổi vì ai đó ĐỨNG LÊN."]**
+
+**[HÌNH ẢNH: Noah đọc. Giữ tờ giấy. Hít thở.]**
+
+---
+
+### NHẬN RA (7:00 — 7:15)
+
+**NARRATOR:**
+"Cậu nghĩ về tất cả những lần im lặng. Những lần nói 'không sao.' Những cuốn sách đọc một mình. Những bạn học giúp đỡ lén. Tất cả những thứ cậu xây dựng... mà không ai thấy."
+
+**NARRATOR:**
+"Và cậu nhận ra... cậu chưa bao giờ là 'không ai cả.' Cậu chỉ chưa nói điều đó RA THÀNH LỜI."
+
+---
+
+### ★ CAO TRÀO — BÀI PHÁT BIỂU (7:15 — 8:15)
+
+**[HÌNH ẢNH: Thứ Sáu. Hội trường. Đầy phụ huynh, giáo viên, hiệu trưởng. Thầy Carter ngồi hàng đầu, bất an. Marcus, Sophia, Oliver đã nói xong.]**
+
+**[HÌNH ẢNH: Tên Noah được gọi. Cậu đứng dậy. Bước lên bục. Vẫn áo khoác cũ. Tay không giấu trong túi. Mở tờ giấy.]**
+
+**[SFX: Tiếng micro feedback. Im lặng. Hàng trăm đôi mắt.]**
+
+**NOAH:**
+*(chậm, rõ, dần mạnh mẽ hơn)*
+"Tên tôi là Noah. Và thầy giáo tôi... gọi tôi là 'không ai cả.'"
+
+**[HÌNH ẢNH: Tiếng hít hơi trong khán phòng. Thầy Carter nhúc nhích trên ghế.]**
+
+**NOAH:**
+"Thầy nói tôi trông không giống người thuộc về sân khấu này."
+
+*(dừng)*
+
+"Có lẽ thầy đúng. Áo khoác tôi cũ. Ba lô tôi rách một lỗ. Mẹ tôi làm hai công việc... để tôi có thể ngồi trong lớp thầy ấy."
+
+**[HÌNH ẢNH: Mẹ cậu trong khán giả — tay che miệng. Mắt ướt.]**
+
+**NOAH:**
+*(mạnh hơn)*
+"Nhưng năm nay... cái 'không ai cả' này đã đọc bốn mươi bảy cuốn sách."
+
+*(Nhìn cô Helen ở phía sau. Cô gật nhẹ.)*
+
+"Cái 'không ai cả' này đã giúp ba bạn qua kỳ thi... khi các bạn ấy sợ không dám hỏi thầy giáo."
+
+*(Nhìn các bạn — họ cúi mặt, xấu hổ vì đã không lên tiếng bảo vệ cậu.)*
+
+"Cái 'không ai cả' này đã sửa kệ sách thư viện... cái mà người ta bảo 'hỏng quá không sửa được.'"
+
+**[HÌNH ẢNH: ★ EMOTIONAL GAZE — Noah nhìn thẳng vào camera 2 giây. Không giận. Không khóc. CHẮC CHẮN.]**
+
+**NOAH:**
+*(Dignity Speech — nhẹ nhàng, quyền lực)*
+"Thầy có thể bỏ qua tôi. Thầy có thể bỏ qua tên tôi. Thầy có thể gọi tôi là 'không ai cả.'"
+
+*(dừng — 3 giây)*
+
+"Nhưng thầy KHÔNG THỂ... lấy đi những gì tôi đã xây. Những gì tôi đã học. Những gì tôi LÀ."
+
+*(Gấp tờ giấy. Bước lùi khỏi micro.)*
+
+"Tên tôi là Noah. Và tôi KHÔNG PHẢI là không ai cả."
+
+**[HÌNH ẢNH: Im lặng — 3 giây. Rồi — MẸ cậu đứng dậy. Vỗ tay. Một mình lúc đầu. Rồi cô Helen. Rồi một học sinh. Rồi tiếp. Rồi CẢ HỘI TRƯỜNG.]**
+
+**[SFX: Tiếng vỗ tay dồn từ im lặng thành VANG DỘI.]**
+
+**[HÌNH ẢNH: Thầy Carter — ngồi yên. Không vỗ tay. Nhưng mắt — thầy BIẾT. Thầy nhìn đi. Tay nắm chặt đầu gối.]**
+
+---
+
+### FLASH FORWARD PAYOFF (8:15 — 8:30)
+
+**[HÌNH ẢNH: Cùng shot từ Cold Open — tay trên bục. Nhưng GIỜ thấy toàn cảnh: Noah đứng thẳng. Khán giả đứng. Mẹ khóc. Cô Helen mỉm cười.]**
+
+**[GHI CHÚ: ★ ECHO LINE callback — "Không ai cả" — giờ là HUY HIỆU DANH DỰ, không phải lời xúc phạm.]**
+
+---
+
+## HỒI 5: TRỞ VỀ (8:30 — 10:00)
+
+---
+
+### BÌNH THƯỜNG MỚI (8:30 — 9:00)
+
+**[HÌNH ẢNH: Thứ Hai. Trường. Noah bước vào — vẫn áo khoác cũ. Nhưng khác. Tay KHÔNG trong túi. Đầu ngẩng cao.]**
+
+**MARCUS:**
+"Noah... bài phát biểu đó. Thật sự... Xin lỗi vì trước giờ mình không nói gì."
+
+**NOAH:**
+*(mỉm cười nhẹ)*
+"Không sao, Marcus. Bạn đang nói bây giờ mà."
+
+**[HÌNH ẢNH: Họ cùng bước vào lớp. Thầy Carter ở phía trước. Thầy thấy Noah. Trong giây lát — họ nhìn nhau. Thầy Carter nhìn đi TRƯỚC.]**
+
+**NARRATOR:**
+"Thầy Carter không bao giờ xin lỗi. Có những người không làm vậy. Nhưng thầy không bao giờ gọi ai là 'không ai cả' nữa."
+
+---
+
+### KARMA / HẬU QUẢ (9:00 — 9:15)
+
+**[HÌNH ẢNH: Cửa phòng hiệu trưởng. Thầy Carter bước vào. Qua kính, thấy hiệu trưởng cầm thư — "KHIẾU NẠI PHỤ HUYNH." Nhiều bản trên bàn.]**
+
+**NARRATOR:**
+"Ba phụ huynh viết thư tuần đó. Cuối tháng... thầy Carter bị chuyển sang trường khác."
+
+---
+
+### MOTIF VANG VỌNG (9:15 — 9:30)
+
+**[HÌNH ẢNH: Thư viện. Noah ngồi chỗ quen. Nhưng giờ — HAI HỌC SINH KHÁC ngồi cùng. Họ học cùng nhau. Cô Helen nhìn từ sau quầy. Mỉm cười.]**
+
+**[HÌNH ẢNH: Cửa sổ — nắng tràn vào. Ánh vàng trên mặt Noah. Cậu không nhìn RA cửa sổ nữa. Cậu nhìn những người XUNG QUANH.]**
+
+---
+
+### SUY NGẪM CỦA NARRATOR (9:30 — 9:45)
+
+**NARRATOR:**
+"Noah không trở nên nổi tiếng ngày hôm đó. Không trở nên giàu. Không có áo khoác mới."
+
+*(dừng)*
+
+"Nhưng cậu học được điều mà không bài kiểm tra nào đo được... và không giáo viên nào lấy đi được."
+
+*(dừng)*
+
+"Rằng giọng nói của cậu... luôn ở đó. Nó chỉ đang chờ... cậu sử dụng nó."
+
+---
+
+### HÌNH ẢNH CUỐI (9:45 — 9:55)
+
+**[HÌNH ẢNH: Cuốn sổ của Noah — mở trang mới. Trên đầu, chữ viết tay: "Những điều tôi là." Bên dưới, danh sách dài dần. Camera zoom chậm. Từ cuối cùng: "AI ĐÓ."]**
+
+**[GIỮ — 5 giây. Ánh vàng trên trang giấy.]**
+
+---
+
+### CTA (9:55 — 10:00)
+
+**NARRATOR:**
+*(rất nhẹ)*
+"Nếu câu chuyện này ở lại với bạn... hãy chia sẻ nó với ai đó cần nghe. Mỗi người đều có một câu chuyện đáng được lắng nghe. Hẹn gặp lại lần sau."
+
+**[Fade to black.]**
+
+---
+
+**[KẾT THÚC — PHIÊN BẢN TIẾNG VIỆT]**
