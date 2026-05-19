@@ -644,23 +644,93 @@ Final Image (HOLD) → Fade → CTA
 
 ---
 
-## 4.2 THƯ VIỆN CẤU TRÚC DỰ PHÒNG (6 Structures bổ sung)
+## 4.2 THƯ VIỆN CẤU TRÚC DỰ PHÒNG (7 Structures bổ sung)
 
-### Tổng quan 7 cấu trúc xoay tua:
+### Tổng quan 8 cấu trúc xoay tua:
 
 | # | Tên | Mô tả ngắn | Pillar | Tần suất | Độ khó |
 |---|-----|-------------|--------|----------|--------|
-| 1 | **The Quiet Arc** | 5 hồi chuẩn, Flash Forward hook | 🔥 Injustice | 30% (3-4/tháng) | ⭐⭐ |
-| 2 | **The Bookends** | Hiện tại → Flashback → Hiện tại (cùng scene, khác meaning) | 💔 Sacrifice | 15% (2/tháng) | ⭐⭐ |
-| 3 | **The Countdown** | Deadline → Race against time → Attempts fail → Resolution | 🔥💔 | 10% (1/tháng) | ⭐⭐⭐ |
-| 4 | **The Reveal** | Bóc lớp: Version A → B → C → Truth | 🎭🤝 | 15% (2/tháng) | ⭐⭐⭐ |
-| 5 | **The Parallel** | 2 câu chuyện cắt xen kẽ → Converge | 🤝💔 | 10% (1/tháng) | ⭐⭐⭐⭐ |
-| 6 | **The Loop** | Mở và Kết = CÙNG scene, KHÁC meaning | 🌱 Growth | 10% (1/tháng) | ⭐⭐⭐ |
-| 7 | **The Confession** | Nhân vật kể lại (unreliable) → Truth revealed | 🎭🤝 | 10% (1-2/tháng) | ⭐⭐⭐ |
+| 1 | **The Quiet Arc** | 5 hồi chuẩn, Flash Forward hook (nội tâm, discovery) | 🔥💔🌱 | 20% (2-3/tháng) | ⭐⭐ |
+| 2 | **The Hero's Quiet Journey** | 5 hồi Hero's Journey: Call → Trials → Confrontation → Victory → Return | 🔥🌱 | 25% (3/tháng) | ⭐⭐⭐ |
+| 3 | **The Bookends** | Hiện tại → Flashback → Hiện tại (cùng scene, khác meaning) | 💔 Sacrifice | 10% (1/tháng) | ⭐⭐ |
+| 4 | **The Countdown** | Deadline → Race against time → Attempts fail → Resolution | 🔥💔 | 10% (1/tháng) | ⭐⭐⭐ |
+| 5 | **The Reveal** | Bóc lớp: Version A → B → C → Truth | 🎭🤝 | 15% (2/tháng) | ⭐⭐⭐ |
+| 6 | **The Parallel** | 2 câu chuyện cắt xen kẽ → Converge | 🤝💔 | 5% (1/2 tháng) | ⭐⭐⭐⭐ |
+| 7 | **The Loop** | Mở và Kết = CÙNG scene, KHÁC meaning | 🌱 Growth | 5% (1/2 tháng) | ⭐⭐⭐ |
+| 8 | **The Confession** | Nhân vật kể lại (unreliable) → Truth revealed | 🎭🤝 | 10% (1/tháng) | ⭐⭐⭐ |
 
 ---
 
-### Structure #2: THE BOOKENDS
+### Structure #2: THE HERO'S QUIET JOURNEY ★ (Dramatic + Active + Confrontation)
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│     THE HERO'S QUIET JOURNEY — 5 Hồi                               │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  Hồi 1: THE ORDINARY WORLD (15% — ~1.5')                           │
+│  → Nhân vật sống trong bất công nhưng đã quen / chấp nhận          │
+│  → HOOK: Flash Forward — 1 câu thoại dramatic từ confrontation     │
+│  → Establish "life is unfair but character endures"                 │
+│                                                                     │
+│  Hồi 2: THE CALL + REFUSAL (25% — ~2.5')                           │
+│  → Sự kiện BUỘC phải thay đổi (không thể im lặng nữa)             │
+│  → Nhân vật SỢ, từ chối, muốn trốn                                │
+│  → NHƯNG hoàn cảnh ÉP → "I have no choice"                        │
+│  → Mini-conflict: protagonist thử phản kháng nhẹ → FAIL            │
+│                                                                     │
+│  Hồi 3: TRIALS & ALLIES (20% — ~2')                                │
+│  → 2-3 thử thách TĂNG DẦN (mỗi lần khó hơn)                       │
+│  → Có FAIL → có MINI-WIN → emotional roller coaster                │
+│  → 1 ALLY/MENTOR xuất hiện (The Quiet Mentor / The Anchor)         │
+│  → Ally nói 1 câu quan trọng = seed cho Realization                │
+│                                                                     │
+│  Hồi 4: THE ORDEAL + CONFRONTATION (25% — ~2.5')                   │
+│  → ★ CONFRONTATION TRỰC TIẾP với villain/nguồn bất công            │
+│  → Villain nói/làm điều tàn nhẫn nhất (Bậc 4-5)                   │
+│  → Dark Moment: Hero gần thua / gần bỏ cuộc                       │
+│  → Realization: Nhớ lại lời Ally → hiểu NEED                      │
+│  → ★ CLIMAX: Hero ĐỨNG LÊN — bằng PHẨM GIÁ, không bằng bạo lực   │
+│  → "Dignity Speech" — 2-3 câu thoại mạnh nhất video               │
+│  → Emotional Gaze shot                                             │
+│                                                                     │
+│  Hồi 5: THE RETURN (15% — ~1.5')                                   │
+│  → Quay lại thế giới cũ nhưng PROTAGONIST ĐÃ KHÁC                 │
+│  → Villain bị consequence (không cần revenge — karma tự nhiên)     │
+│  → "I'm not the same person anymore" moment                       │
+│  → Motif Echo + Narrator Reflection + Final Image                  │
+│                                                                     │
+│  KEY DIFFERENCE vs The Quiet Arc:                                   │
+│  • Quiet Arc = nhân vật DISCOVER (tìm thấy sự thật) — passive     │
+│  • Hero's Journey = nhân vật FIGHT (đứng lên chiến đấu) — active   │
+│  • Quiet Arc ending = bittersweet, contemplative                   │
+│  • Hero's Journey ending = TRIUMPHANT, dignity, pride               │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**Khi nào dùng:** Câu chuyện có VILLAIN RÕ RÀNG, protagonist cần ĐỨNG LÊN, audience muốn "justice served"
+**Power:** Emotional roller coaster + Confrontation scene + Dignity victory = VIRAL POTENTIAL CAO NHẤT
+**Pillar phù hợp nhất:** 🔥 Injustice & Redemption, 🌱 Growth & Identity
+
+**"Dignity Speech" Rule:**
+> Climax KHÔNG phải protagonist đánh/trả thù villain.
+> Climax là protagonist NÓI SỰ THẬT — bình tĩnh, mạnh mẽ, từ chối bị hạ thấp.
+> Đây là moment khán giả ĐỨNG LÊN trong lòng cùng protagonist.
+
+**Ví dụ "Dignity Speech":**
+> *"You can fire me. You can take my name off that project. But you cannot take away what I know I built. And everyone in this room... knows it too."*
+
+**Emotional Journey:**
+```
+Phẫn nộ (vì bất công) → Sợ hãi (phải đối mặt) → Hy vọng (có ally) →
+Căng thẳng (trials) → Tuyệt vọng (dark moment) → TỰ HÀO (đứng lên) →
+CHIẾN THẮNG (dignity) → Bình yên (return — mạnh hơn)
+```
+
+---
+
+### Structure #3: THE BOOKENDS
 
 ```
 PRESENT (0:00-1:00) ──→ FLASHBACK (1:00-8:30) ──→ PRESENT (8:30-10:00)
@@ -672,7 +742,7 @@ PRESENT (0:00-1:00) ──→ FLASHBACK (1:00-8:30) ──→ PRESENT (8:30-10:0
 
 ---
 
-### Structure #3: THE COUNTDOWN
+### Structure #4: THE COUNTDOWN
 
 ```
 DEADLINE SET (0:00-1:00) → ATTEMPT 1 FAIL (1:00-3:00) → ATTEMPT 2 FAIL (3:00-5:30) 
@@ -684,7 +754,7 @@ DEADLINE SET (0:00-1:00) → ATTEMPT 1 FAIL (1:00-3:00) → ATTEMPT 2 FAIL (3:00
 
 ---
 
-### Structure #4: THE REVEAL
+### Structure #5: THE REVEAL
 
 ```
 LAYER 1 (0:00-2:30) → LAYER 2 (2:30-5:00) → LAYER 3 (5:00-7:00) 
@@ -696,7 +766,7 @@ LAYER 1 (0:00-2:30) → LAYER 2 (2:30-5:00) → LAYER 3 (5:00-7:00)
 
 ---
 
-### Structure #5: THE PARALLEL
+### Structure #6: THE PARALLEL
 
 ```
 STORY A ─── scene 1 ─── scene 3 ─── scene 5 ─── ┐
@@ -709,7 +779,7 @@ STORY B ─── scene 2 ─── scene 4 ─── scene 6 ─── ┘
 
 ---
 
-### Structure #6: THE LOOP
+### Structure #7: THE LOOP
 
 ```
 SCENE X [Meaning A] (0:00-1:00) → FULL STORY (1:00-9:00) → SCENE X [Meaning B] (9:00-10:00)
@@ -720,7 +790,7 @@ SCENE X [Meaning A] (0:00-1:00) → FULL STORY (1:00-9:00) → SCENE X [Meaning 
 
 ---
 
-### Structure #7: THE CONFESSION
+### Structure #8: THE CONFESSION
 
 ```
 "I need to tell you..." (0:00-1:00) → CHARACTER'S VERSION (1:00-5:00) 
@@ -798,10 +868,10 @@ SCENE X [Meaning A] (0:00-1:00) → FULL STORY (1:00-9:00) → SCENE X [Meaning 
 
 | Tuần | Video 1 | Video 2 | Video 3 |
 |------|---------|---------|---------|
-| **Tuần 1** | 🔥 Quiet Arc | 💔 Bookends | 🌱 Loop |
-| **Tuần 2** | 🎭 Reveal | 🔥 Quiet Arc | 🤝 Parallel |
-| **Tuần 3** | 💔 Quiet Arc | 🎭 Confession | 🔥 Countdown |
-| **Tuần 4** | 🤝 Reveal | 🌱 Quiet Arc | 💔 Bookends |
+| **Tuần 1** | 🔥 Hero's Journey | 💔 Bookends | 🌱 Loop |
+| **Tuần 2** | 🎭 Reveal | 🔥 Quiet Arc | 🤝 Confession |
+| **Tuần 3** | 🔥 Hero's Journey | 💔 Countdown | 🌱 Quiet Arc |
+| **Tuần 4** | 🎭 Reveal | 🔥 Hero's Journey | 🤝 Parallel |
 
 ### Quy tắc scheduling:
 
@@ -809,7 +879,8 @@ SCENE X [Meaning A] (0:00-1:00) → FULL STORY (1:00-9:00) → SCENE X [Meaning 
 |------|-------|
 | Không lặp cấu trúc 2 video liên tiếp | Tránh pattern recognition |
 | Xen kẽ Pillar — không 3 video cùng pillar/tuần | Variety |
-| Quiet Arc luôn có mặt mỗi tuần (ít nhất 1) | Anchor, dễ sản xuất, buffer |
+| Hero's Quiet Journey ít nhất 3/tháng | Dramatic content = viral potential cao nhất |
+| Quiet Arc 2-3/tháng | Anchor cho "contemplative" brand identity |
 | Max 1 "complex structure" (Parallel/Reveal) / tuần | Quản lý workload |
 
 ---
@@ -878,13 +949,14 @@ Mỗi video PHẢI có:
 ```
 Chọn cấu trúc nào?
 
-→ Câu chuyện 1 nhân vật, hành trình rõ?     → THE QUIET ARC
-→ Có flashback/quá khứ quan trọng?           → THE BOOKENDS  
-→ Có deadline/thời gian gấp?                 → THE COUNTDOWN
-→ Sự thật được tiết lộ dần?                  → THE REVEAL
-→ 2 nhân vật, 2 góc nhìn?                   → THE PARALLEL
-→ Character thay đổi rõ rệt đầu vs cuối?    → THE LOOP
-→ Nhân vật kể lại (có thể unreliable)?      → THE CONFESSION
+→ Câu chuyện 1 nhân vật, hành trình NỘI TÂM?        → THE QUIET ARC
+→ Có VILLAIN rõ + cần CONFRONTATION + active hero?    → THE HERO'S QUIET JOURNEY ★
+→ Có flashback/quá khứ quan trọng?                    → THE BOOKENDS  
+→ Có deadline/thời gian gấp?                          → THE COUNTDOWN
+→ Sự thật được tiết lộ dần?                           → THE REVEAL
+→ 2 nhân vật, 2 góc nhìn?                            → THE PARALLEL
+→ Character thay đổi rõ rệt đầu vs cuối?             → THE LOOP
+→ Nhân vật kể lại (có thể unreliable)?               → THE CONFESSION
 ```
 
 ## D. AI PROMPT STYLE GUIDE (Veo 3.1)
