@@ -1,84 +1,57 @@
 # 🎨 AI PROMPTS — EP01 "The Boy They Called Nobody"
-## COPY-PASTE READY (Tích hợp đầy đủ Prefix + Character + Scene + Suffix)
+## COPY-PASTE READY (Tích hợp đầy đủ Prefix + Character + Scene + Suffix + Negative)
 
 ---
 
 > **Cách dùng:** Copy nguyên block code → Paste vào Veo 3.1 / Midjourney / DALL-E
-> **Mỗi prompt đã bao gồm:** Style prefix + Character details + Scene context + Quality suffix
+> **Mỗi prompt đã bao gồm:** Style prefix + Character details + Scene context + Quality suffix + **Negative prompt tích hợp sẵn**
 > **KHÔNG CẦN thêm gì — chỉ copy và paste.**
+> 
+> ⚠️ **LƯU Ý VỀ NEGATIVE PROMPT:** Đã được tích hợp trực tiếp vào cuối mỗi prompt bằng cụm `--no` hoặc đặt sau dấu `.` cuối cùng. Nếu tool AI có ô "Negative Prompt" riêng biệt (như Midjourney `--no`, hoặc ComfyUI), hãy tách phần sau "NEGATIVE:" ra paste riêng vào ô đó.
 
 ---
 ---
 
-# A. CHARACTER SHEET PROMPTS (Tạo hình nhân vật)
+# A. CHARACTER SHEET PROMPTS (Tạo Character Sheet — Nền trắng, 21:9, có ghi chú)
+
+> **Format:** 21:9 aspect ratio, nền trắng, multiple poses + expressions trên 1 ảnh
+> **Tham khảo:** Character turnaround sheet style với annotations
 
 ---
 
-## A1. NOAH — Front View (Character Reference Sheet)
+## A1. NOAH — Full Character Sheet (21:9, nền trắng, annotated)
 
 ```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), tactile textures visible (fabric weave, skin pores), dramatic chiaroscuro lighting with strong directional source from left, atmospheric haze and dust particles in light beams, muted desaturated color palette with amber gold accent, cinematic composition, depth of field, contemplative mood. CHARACTER DESIGN REFERENCE SHEET: 11-year-old boy standing in neutral pose facing camera, slim build, slightly angular thin face, almond-shaped dark brown eyes with amber flecks near pupil, slightly downturned outer eye corners, messy dark brown hair falling over right eye with flyaway strands, light brown skin with 3-4 subtle freckles on nose bridge, slight dark circles under eyes from lack of sleep, small thin scar on left eyebrow, thin lips pressed together, wearing oversized dark navy jacket with frayed cuffs and one missing button on left side, cream shirt underneath slightly yellowed at collar, dark grey pants with hem slightly too short, black sneakers with sole slightly separating on left foot, dark green backpack with duct tape on one strap, hands in jacket pockets, shoulders slightly hunched forward, head tilted slightly down. Neutral grey background for character reference. High quality render, photorealistic lighting on stylized character, subsurface scattering on skin, film grain subtle, full body visible head to toe.
-```
-
----
-
-## A2. NOAH — 3/4 View (Emotional — Default sad/contemplative)
-
-```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), tactile textures visible (fabric weave, skin pores, wood grain), dramatic chiaroscuro lighting with strong directional source from window on right side, atmospheric haze and dust particles in light beams, muted desaturated color palette with warm brown tones, cinematic composition rule of thirds, depth of field, contemplative mood. 11-year-old boy in 3/4 view, slim build, slightly angular thin face, almond-shaped dark brown eyes with amber flecks looking down and to the left, messy dark brown hair falling over right eye, light brown skin with subtle freckles on nose bridge, slight dark circles under eyes, small scar on left eyebrow, expression: restrained sadness — lips pressed together, eyes glistening but not crying, jaw slightly tight. Wearing oversized dark navy jacket with frayed cuffs, hands hidden in pockets. Window light creating rim light on hair and shoulder. Background: blurred school hallway, cold fluorescent. NOT looking at camera. High quality render, photorealistic lighting on stylized character, subsurface scattering on skin, volumetric atmospheric lighting, film grain subtle, 16:9 aspect ratio, cinematic color grading.
+Professional 3D character design reference sheet, clean white background, 21:9 ultra-wide aspect ratio layout, multiple views and expressions of ONE character arranged neatly on single image with small text annotations beneath each view. Character: 11-year-old boy with WARM APPEALING face designed to evoke immediate sympathy and affection from viewers — soft rounded cheeks retaining baby fat, large gentle almond-shaped dark brown eyes with amber flecks that look slightly upward giving innocent hopeful quality, long dark eyelashes, slightly upturned small nose (endearing), soft full lips with natural gentle downturn at rest (not angry — vulnerable), messy dark brown hair with soft texture falling over right eye in an endearing way, light warm brown skin with 3-4 tiny cute freckles across nose bridge (like scattered stars), very subtle dark circles under eyes (tiredness not harshness), small thin healed scar on left eyebrow (adds character not toughness), slightly larger-than-average hands for his age. Slim build, 1:5.5 head-to-body proportions, wearing oversized dark navy jacket with frayed cuffs and one missing button, cream shirt, dark grey slightly-too-short pants, worn black sneakers. LAYOUT ON SHEET (left to right): [1] Front 3/4 view full body standing — hands in pockets, slight hunch, gentle sad expression (annotated "3/4 Front") | [2] Back 3/4 view full body standing — showing backpack with duct tape on strap (annotated "3/4 Back") | [3] Face close-up front view — neutral gentle expression (annotated "Face Front") | [4] Face close-up 3/4 — showing scar on eyebrow and freckles (annotated "Face 3/4") | [5] Expression: gentle sad — eyes down, lips pressed softly (annotated "Sad") | [6] Expression: hopeful smile — small warm genuine smile reaching eyes (annotated "Hope") | [7] Expression: determined — jaw set but eyes still kind (annotated "Determined") | [8] Expression: holding back tears — glistening eyes, chin slightly trembling (annotated "Holding tears") | [9] Hand detail — showing slightly larger hands, worn short pencil in fingers (annotated "Hands") | [10] Hair detail — showing messy texture, how it falls over eye (annotated "Hair"). Clean professional character sheet layout, crisp sharp render, NO noise, NO grain, NO blur, NO over-rendering, clean lines, white background, clear readable small text annotations beneath each view, professional animation studio quality reference sheet.
 ```
 
 ---
 
-## A3. NOAH — Climax Version (Confident, at podium)
+## A2. MR. CARTER — Full Character Sheet (21:9, nền trắng, annotated)
 
 ```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), tactile textures visible (fabric weave, skin pores), dramatic chiaroscuro lighting with golden spotlight from above, atmospheric dust particles visible in spotlight beam, muted desaturated dark background with strong amber gold accent on character, cinematic composition low angle looking up at character, depth of field, triumphant powerful mood. 11-year-old boy standing at wooden podium, TRANSFORMED POSTURE: shoulders BACK, chin UP, hands gripping podium edges firmly (hands visible NOT in pockets), messy dark brown hair pushed back slightly from face revealing both eyes fully, almond-shaped dark brown eyes with amber flecks — eyes CERTAIN and determined not sad, light brown skin with freckles visible in golden light, slight dark circles but expression overrides them with strength, small scar on left eyebrow. Wearing same oversized dark navy jacket with frayed cuffs — but wearing it with PRIDE now. Unfolded paper on podium. Golden spotlight beam cutting through dark assembly hall, audience silhouettes in background shadow. Microphone in front. NOT looking at camera — looking OUT at audience with quiet power. High quality render, photorealistic lighting on stylized character, subsurface scattering on skin, volumetric golden spotlight beam, film grain subtle, 16:9 aspect ratio, cinematic color grading, heroic composition.
-```
-
----
-
-## A4. MR. CARTER — Front View (Character Reference Sheet)
-
-```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), tactile textures visible (fabric weave, polished surfaces), dramatic chiaroscuro lighting with cold blue-white light from above, atmospheric sterile environment, muted desaturated cold color palette with steel grey accent, cinematic composition, depth of field, intimidating mood. CHARACTER DESIGN REFERENCE SHEET: 35-year-old male teacher standing in authoritative pose facing camera, tall lean athletic build, sharp angular jaw with high cheekbones, narrow slightly hooded pale grey-blue eyes, thin groomed eyebrows with slight arch giving permanent condescending look, dark hair slicked back perfectly not a strand out of place, fair smooth skin with NO imperfections (deliberately too perfect — he erased his past), thin lips in slight smirk, wearing fitted dark charcoal vest over crisp white starched shirt with silver cufflinks visible, dark trousers with perfect crease, polished black oxford shoes, expensive watch on left wrist. Posture: tall, chin slightly raised, looking down at camera angle. Cold blue-grey overhead lighting casting shadows under eyes and nose (always looks like he's looking DOWN at people). Neutral grey background for character reference. High quality render, photorealistic lighting on stylized character, subsurface scattering on skin, film grain subtle, full body visible head to toe.
+Professional 3D character design reference sheet, clean white background, 21:9 ultra-wide aspect ratio layout, multiple views and expressions of ONE character arranged neatly on single image with small text annotations beneath each view. Character: 35-year-old male teacher with sharp intimidating presence — angular jaw, high pronounced cheekbones, narrow slightly hooded pale grey-blue cold eyes, thin carefully groomed eyebrows with slight arch giving permanent condescending air, dark hair slicked back perfectly with not a strand out of place, fair smooth flawless skin deliberately too perfect (he erased his humble past), thin lips often in slight smirk or pressed flat line, tall lean athletic build 185cm, 1:5.5 head-to-body proportions. Wearing fitted dark charcoal vest over crisp white starched shirt with silver cufflinks, dark trousers with sharp crease, polished black oxford shoes, expensive watch on left wrist. LAYOUT ON SHEET (left to right): [1] Front 3/4 view full body standing — arms crossed, chin slightly raised, looking down (annotated "3/4 Front") | [2] Back 3/4 view full body standing — showing vest back, perfect posture (annotated "3/4 Back") | [3] Face close-up front view — neutral cold expression (annotated "Face Front") | [4] Face close-up 3/4 — showing sharp jaw angle and hooded eyes (annotated "Face 3/4") | [5] Expression: condescending smirk — one corner of mouth raised (annotated "Smirk") | [6] Expression: cold dismissal — eyes half-lidded, looking away (annotated "Dismissive") | [7] Expression: uncomfortable/caught — eyes slightly wider, swallowing (annotated "Caught") | [8] Expression: looking away in shame — head turned, jaw tight (annotated "Shame") | [9] Hand detail — showing silver cufflinks, manicured nails, watch (annotated "Hands") | [10] Clothing detail — vest texture, shirt collar, cufflink close-up (annotated "Clothing"). Clean professional character sheet layout, crisp sharp render, NO noise, NO grain, NO blur, NO over-rendering, clean lines, white background, clear readable small text annotations, professional animation studio quality reference sheet.
 ```
 
 ---
 
-## A5. MR. CARTER — Classroom (In his domain, condescending)
+## A3. MS. HELEN — Full Character Sheet (21:9, nền trắng, annotated)
 
 ```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), tactile textures visible (fabric weave, chalk dust, wood grain), dramatic chiaroscuro lighting with cold fluorescent from above and no warm light source, atmospheric sterile classroom environment, muted desaturated cold blue-grey color palette, cinematic composition slightly low angle looking up at character, depth of field, intimidating uncomfortable mood. 35-year-old male teacher standing at front of classroom next to large dark wooden desk on slight elevated platform, sharp angular face, narrow pale grey-blue hooded eyes, dark slicked-back hair, slight condescending smirk, fitted charcoal vest over crisp white shirt, holding test paper in one hand while other hand gestures dismissively, posture tall and imposing, cold overhead fluorescent lighting creating harsh shadows under eyes. Background: classroom with off-white slightly yellowed walls, rows of student desks, motivational posters (ironic contrast), linoleum floor with scuff marks. NOT looking at camera — looking DOWN at something/someone below his eyeline. High quality render, photorealistic lighting on stylized character, subsurface scattering on skin, volumetric atmospheric lighting, film grain subtle, 16:9 aspect ratio, cinematic color grading.
-```
-
----
-
-## A6. MS. HELEN — Front View (Character Reference Sheet)
-
-```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), tactile textures visible (knitted fabric weave, paper texture, wood grain), dramatic but SOFT chiaroscuro lighting with warm golden side light from window, atmospheric warm dust particles floating in light, muted warm color palette with burgundy and amber gold accents, cinematic composition, depth of field, warm gentle wise mood. CHARACTER DESIGN REFERENCE SHEET: 62-year-old female librarian standing in relaxed gentle pose facing camera, short build, soft round warm face with deep smile lines around mouth, crow's feet at eyes, warm brown eyes behind round thin gold-framed glasses (SIGNATURE item), silver-grey hair loosely pulled back in soft bun with whisps of hair escaping around temples, warm ivory skin with visible age spots on hands, wearing oversized knitted burgundy cardigan with slightly worn elbows, thin muted gold draped scarf, simple dark skirt, comfortable flat shoes. Hands: one hand holding a closed book against chest, veined and gentle. Posture: relaxed, approachable, slight knowing half-smile like she has a secret. Warm golden lighting from one side. Neutral grey background for character reference. High quality render, photorealistic lighting on stylized character, subsurface scattering on skin, film grain subtle, full body visible head to toe.
-```
-
----
-
-## A7. MS. HELEN — Library Scene (In her domain, wise)
-
-```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), tactile textures visible (knitted fabric, leather book covers, dark wood grain, paper pages), dramatic soft chiaroscuro lighting with warm golden afternoon sunlight streaming through tall library window, atmospheric dust particles clearly visible floating in golden light beams, muted warm color palette with burgundy and amber gold dominant, cinematic composition rule of thirds, depth of field with bookshelves in soft focus background, warm contemplative wise mood. 62-year-old female librarian sitting at library table, soft round face with smile lines, warm brown eyes behind round gold glasses looking kindly at someone across table, silver-grey hair in loose bun with whisps, wearing oversized burgundy knitted cardigan, one hand pushing a book across wooden table toward someone, other hand wrapped around ceramic tea cup. Background: floor-to-ceiling dark wooden bookshelves slightly dusty on top, warm desk lamp with green shade nearby, stacked books on table, cozy lived-in library atmosphere. Golden window light creating rim light on her silver hair. NOT looking at camera — looking at the person across from her with gentle encouragement. High quality render, photorealistic lighting on stylized character, subsurface scattering on skin, volumetric golden atmospheric lighting, film grain subtle, 16:9 aspect ratio, cinematic color grading.
+Professional 3D character design reference sheet, clean white background, 21:9 ultra-wide aspect ratio layout, multiple views and expressions of ONE character arranged neatly on single image with small text annotations beneath each view. Character: 62-year-old female school librarian with warm grandmotherly presence that makes viewers feel safe — soft round face with deep genuine smile lines around mouth, prominent crow's feet at outer eye corners (from decades of smiling), large warm brown observant eyes behind round thin gold-framed glasses (SIGNATURE item), silver-grey hair loosely pulled back in soft bun with charming whisps escaping around temples and ears, warm ivory skin with visible age spots on backs of hands (worn proudly), soft build 158cm, 1:5.5 head-to-body proportions. Wearing oversized hand-knitted burgundy cardigan with slightly worn elbows showing lighter thread underneath, thin muted gold draped scarf, simple comfortable dark skirt, flat practical shoes. Often holding a book or tea cup. LAYOUT ON SHEET (left to right): [1] Front 3/4 view full body standing — holding book against chest, gentle half-smile (annotated "3/4 Front") | [2] Back 3/4 view full body standing — showing cardigan back, bun with whisps (annotated "3/4 Back") | [3] Face close-up front view — gentle knowing expression behind glasses (annotated "Face Front") | [4] Face close-up 3/4 — showing glasses reflection, smile lines, whisps of silver hair (annotated "Face 3/4") | [5] Expression: gentle knowing smile — like she has a helpful secret (annotated "Knowing") | [6] Expression: observing quietly — eyes focused through glasses, slight concern (annotated "Observing") | [7] Expression: proud of someone — warm full smile, eyes glistening with pride (annotated "Proud") | [8] Expression: calm reassurance — slight head tilt, soft eyes (annotated "Reassuring") | [9] Hand detail — showing age spots, veins, holding tea cup warmly (annotated "Hands") | [10] Glasses detail — round thin gold frame, how they sit on nose (annotated "Glasses"). Clean professional character sheet layout, crisp sharp render, NO noise, NO grain, NO blur, NO over-rendering, clean lines, white background, clear readable small text annotations, professional animation studio quality reference sheet.
 ```
 
 ---
 ---
 
-# B. CHARACTER SCALE PROMPT
+# B. CHARACTER SCALE PROMPT (Với Negative tích hợp)
 
 ---
 
-## B1. All Three Characters — Height Comparison
+## B1. All Three Characters — Height Comparison (21:9, nền trắng)
 
 ```
-3D animated, semi-realistic style, elevated stylized proportions (1:5.5 head-to-body ratio), clean neutral grey background, soft even studio lighting for scale reference, all three characters standing side by side in neutral poses for height comparison. LEFT: 11-year-old boy (145cm), slim, messy dark brown hair, oversized navy jacket, hands in pockets, slightly hunched — the SHORTEST. CENTER: 62-year-old female librarian (158cm), soft round build, silver-grey hair, burgundy cardigan, holding book — MEDIUM height. RIGHT: 35-year-old male teacher (185cm), tall lean athletic, dark slicked-back hair, charcoal vest, arms crossed, chin raised — the TALLEST, towering over both others. Clear height difference visible. Clean reference sheet style. Full body head to toe. High quality render, photorealistic lighting on stylized characters, subsurface scattering on skin, film grain subtle.
+Professional 3D character design height comparison reference sheet, clean white background, 21:9 ultra-wide aspect ratio, all three characters standing side by side in neutral T-poses for clear scale comparison with height measurement lines. LEFT (shortest, 145cm): 11-year-old boy with warm appealing face, soft rounded cheeks, large gentle almond-shaped dark brown eyes with long lashes, messy dark brown hair, cute freckles on nose, oversized navy jacket, hands at sides, slight gentle posture — annotated "NOAH — 145cm". CENTER (medium, 158cm): 62-year-old female librarian, soft round face, round gold glasses, silver-grey hair in bun, burgundy cardigan, holding book — annotated "MS. HELEN — 158cm". RIGHT (tallest, 185cm): 35-year-old male teacher, sharp angular jaw, narrow cold eyes, dark slicked hair, charcoal vest, arms crossed, chin raised, towering over both — annotated "MR. CARTER — 185cm". Clear height difference visible with dotted measurement lines. Professional clean reference style. Crisp sharp render, NO noise, NO grain, NO blur, NO over-rendering, clean lines, white background, clear text annotations. NEGATIVE: chibi, cartoon proportions, anime, flat lighting, over-saturated, candy colors, noisy, grainy, blurry, deformed.
 ```
 
 ---
@@ -187,10 +160,13 @@
 ---
 ---
 
-# F. NEGATIVE PROMPT (Dùng cho mọi generation — paste vào ô Negative)
+# F. NEGATIVE PROMPT REFERENCE (Đã tích hợp vào tất cả prompts phía trên)
+
+> ⚠️ Negative prompt đã được tích hợp trực tiếp vào cuối mỗi prompt ở các mục A (Character Sheet).
+> Các mục C, D, E — nếu tool AI có ô Negative riêng, copy đoạn dưới đây paste vào:
 
 ```
-chibi proportions, cartoon proportions, anime style, manga eyes, flat lighting, no shadows, over-saturated colors, candy colors, neon colors, pure white background, looking directly at camera (unless specified), exaggerated facial expressions, screaming face, perfect plastic skin, no skin texture, no pores, generic character, Pixar clone style, Disney princess eyes, toy-like appearance, low quality, blurry, watermark, text overlay, multiple characters unless specified, deformed hands, extra fingers, floating objects, unrealistic physics
+chibi proportions, cartoon proportions, anime style, manga eyes, flat lighting, no shadows, over-saturated colors, candy colors, neon colors, pure white skin, looking directly at camera (unless specified), exaggerated facial expressions, screaming face, perfect plastic skin, no skin texture, no pores, generic character, Pixar clone style, Disney princess eyes, toy-like appearance, low quality, blurry, watermark, text overlay, multiple characters unless specified, deformed hands, extra fingers, floating objects, unrealistic physics, noisy render, grain, over-rendered, smudgy, soft focus
 ```
 
 ---
